@@ -12,7 +12,8 @@
   
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
-<a href="https://linkedin.com/in/hudson-oliveira-ginelli-09a920147" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hudson-oliveira-ginelli-09a920147" height="30" width="40" /></a>  
+<a href="https://linkedin.com/in/hudson-oliveira-ginelli-09a920147" target="blank"><img align="center"
+	src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="hudson-oliveira-ginelli-09a920147" height="40" width="40" /></a>  
 </p>  
   
 <h3 align="left">Languages and Tools:</h3>  
