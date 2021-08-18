@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Hudson Oliveira Ginelli</h1>  
 <h3 align="center">Entusiasta em tecnologia, curioso e sempre buscando as novidades no mundo dos devs 🚀</h3>  
   
-- 🔭 I’m currently working on [blacklab](https://blacklab.ventures)  
+- 🔭 I’m currently working on [blacklab Ventures](https://blacklab.ventures)  
   
 - 🌱 I’m currently learning **NextJS, typescript, React Native**  
   
