@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Hudson Oliveira Ginelli</h1>  
 <h3 align="center">Entusiasta em tecnologia, curioso e sempre buscando as novidades no mundo dos <devs/> 🚀</h3>  
   
-- 🔭 I’m currently working on [achadosappp](https://achadosapp.com)  
+- 🔭 I’m currently working on [blacklab](https://blacklab.ventures)  
   
-- 🌱 I’m currently learning **NextJS, Swagger, CronJobs**  
+- 🌱 I’m currently learning **NextJS, typescript, React Native**  
   
 - 💬 Ask me about **nodejs, react, react-native, nextjs, MERN**  
   
