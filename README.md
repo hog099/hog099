@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Nodejs, React, Reac Native, Nextjs**
 
-- 📫 How to reach me **oliveiraginelli@gmail.com**
+- 📫 How to reach me **oliveiraginelli@gmail.com** or <a href="https://linkedin.com/in/hudson-oliveira-ginelli-09a920147" target="blank">LinkedIn </a>
 ---
 
 ## 🚀 Minhas Skills
