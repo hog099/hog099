@@ -30,7 +30,7 @@
 
 ---
 
-<iframe src="https://giphy.com/embed/iIqmM5tTjmpOB9mpbn" width="480" height="268" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/code-web-tasarm-yazlm-iIqmM5tTjmpOB9mpbn/></p>
+![Programador](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2Zlb3l6aHJtenNld285a3o5MDAwcnBvbDBtN3I0a3lsNDlhMmJmZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif)
 
 <!-- ## ⭐ Informações sobre minha conta GitHub
 
