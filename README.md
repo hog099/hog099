@@ -1,28 +1,37 @@
 
-<h1 align="center">Hi 👋, I'm Hudson Oliveira Ginelli</h1>  
-<h3 align="center">Entusiasta em tecnologia, curioso e sempre buscando as novidades no mundo dos devs 🚀</h3>  
-  
-- 🔭 I’m currently working on [Monett](https://monett.co)  
-  
-- 🌱 I’m currently learning **NextJS, typescript, React Native**  
-  
-- 💬 Ask me about **nodejs, react, react-native, nextjs, MERN**  
-  
-- 📫 How to reach me **oliveiraginelli@gmail.com**  
-  
-<h3 align="left">Connect with me:</h3>  
-<p align="left">  
-<a href="https://linkedin.com/in/hudson-oliveira-ginelli-09a920147" target="blank">
-	<img align="center"
-	src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="hudson-oliveira-ginelli-09a920147" height="40" width="40" />
-	</a>  
-	<a href="https://instagram.com/hud099" target="blank">
-	<img align="center"
-	src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="hud099" height="40" width="40" />
-</a> 
-</p>  
-  
-<h3 align="left">Languages and Tools:</h3>  
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>  
-  
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hog099&show_icons=true&locale=en" alt="hog099" /></p>
+## 💜 Olá, meu nome é <strong>Hudson Oliveira Ginelli!</strong>
+
+<p  align="left">Full stack developer + 3 years of experience in technology, experience in agile methodology, flexibility, communication, and good organization. Enthusiastic about technology and the way it moves people and communities, passion for promoting an inspiring culture through a people-first mentality, to elevate their experience in the best way possible. 🚀</p>
+
+- 👨‍💻 Full stack developer
+
+- 🔭 I’m currently working on [Monett](https://monett.co)
+
+- 💬 Ask me about **Nodejs, React, Reac Native, Nextjs**
+
+- 📫 How to reach me **oliveiraginelli@gmail.com**
+---
+
+## 🚀 Minhas Skills
+<div>
+<img src="https://img.shields.io/static/v1?label=&message=JAVASCRIPT&color=f0dc4e&style=for-the-badge" alt="javascript">
+<img src="https://img.shields.io/static/v1?label=&message=TYPESCRIPT&color=007bcd&style=for-the-badge" alt="typescript">
+<img src="https://img.shields.io/static/v1?label=&message=NODEJS&color=6aa25e&style=for-the-badge" alt="nodejs">
+<img src="https://img.shields.io/static/v1?label=&message=HTML5&color=e54e24&style=for-the-badge" alt="html5">
+<img src="https://img.shields.io/static/v1?label=&message=CSS3&color=167dbe&style=for-the-badge" alt="css3">
+<img src="https://img.shields.io/static/v1?label=&message=TAILWINDCSS&color=3abdf8&style=for-the-badge" alt="tailwindcss">
+<img src="https://img.shields.io/static/v1?label=&message=REACTJS&color=61dbfb&style=for-the-badge" alt="reactjs">
+<img src="https://img.shields.io/static/v1?label=&message=NEXTJS&color=000000&style=for-the-badge" alt="nextjs">
+<img src="https://img.shields.io/static/v1?label=&message=POSTGRES&color=2f6792&style=for-the-badge" alt="postgres">
+<img src="https://img.shields.io/static/v1?label=&message=MONGODB&color=4ea748&style=for-the-badge" alt="mongodb">
+<img src="https://img.shields.io/static/v1?label=&message=STORYBOOK&color=c92ebc&style=for-the-badge" alt="storybook">
+<img src="https://img.shields.io/static/v1?label=&message=ATOMICDESIGN&color=b9602a&style=for-the-badge" alt="atomicdesign">
+</div>
+
+---
+
+<iframe src="https://giphy.com/embed/iIqmM5tTjmpOB9mpbn" width="480" height="268" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/code-web-tasarm-yazlm-iIqmM5tTjmpOB9mpbn/></p>
+
+<!-- ## ⭐ Informações sobre minha conta GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hog099&show_icons=true) -->
