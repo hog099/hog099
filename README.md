@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Monett](https://monett.co)
 
-- 💬 Ask me about **Nodejs, React, Reac Native, Nextjs**
+- 💬 Ask me about **Nodejs, React, React Native, Nextjs**
 
 - 📫 How to reach me **oliveiraginelli@gmail.com** or <a href="https://linkedin.com/in/hudson-oliveira-ginelli-09a920147" target="blank">LinkedIn </a>
 ---
