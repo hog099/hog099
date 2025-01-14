@@ -5,7 +5,7 @@
 
 - 👨‍💻 Full stack developer
 
-- 🔭 I’m currently working on [Monett](https://monett.co)
+- 🔭 I’m currently working on [EQI](https://eqi.com.br)
 
 - 💬 Ask me about **Nodejs, React, React Native, Nextjs**
 
