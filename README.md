@@ -1,7 +1,7 @@
 
 ## 💜 Olá, meu nome é <strong>Hudson Oliveira Ginelli!</strong>
 
-<p  align="left">Full stack developer + 3 years of experience in technology, experience in agile methodology, flexibility, communication, and good organization. Enthusiastic about technology and the way it moves people and communities, passion for promoting an inspiring culture through a people-first mentality, to elevate their experience in the best way possible. 🚀</p>
+<p  align="left">Full stack developer + 5 years of experience in technology, experience in agile methodology, flexibility, communication, and good organization. Enthusiastic about technology and the way it moves people and communities, passion for promoting an inspiring culture through a people-first mentality, to elevate their experience in the best way possible. 🚀</p>
 
 - 👨‍💻 Full stack developer
 
